@@ -1,0 +1,1703 @@
+type,       client, tx, amount
+dispute,    000,      8
+deposit,    1351,      9,  34.33
+deposit,    135,      10,  5.0
+deposit,    136,      11,  15.024
+withdrawal, 136,      12,  10.53
+deposit,    141,      1,  1.122
+deposit,    141,      3,  2.0
+withdrawal, 141,      4,  1.5
+deposit,    142,      2,  2.0
+withdrawal, 142,      5,  3.0
+deposit,    143,      6,  500.0
+withdrawal, 143,      7,  5.0
+dispute,    143,      7
+chargeback, 143,      7
+deposit,    122,      8,  100.00015
+dispute,    144,      8
+deposit,    145,      9,  34.33
+deposit,    145,      10,  5.0
+deposit,    146,      11,  15.024
+withdrawal, 146,      12,  10.53
+deposit,    151,      1,  1.122
+deposit,    151,      3,  2.0
+withdrawal, 151,      4,  1.5
+deposit,    152,      2,  2.0
+withdrawal, 152,      5,  3.0
+deposit,    153,      6,  500.0
+withdrawal, 153,      7,  5.0
+dispute,    153,      7
+chargeback, 153,      7
+deposit,    154,      8,  100.00015
+dispute,    154,      8
+deposit,    155,      9,  34.33
+deposit,    155,      10,  5.0
+deposit,    156,      11,  15.024
+withdrawal, 156,      12,  10.53
+deposit,    161,      1,  1.122
+deposit,    161,      3,  2.0
+withdrawal, 161,      4,  1.5
+deposit,    162,      2,  2.0
+withdrawal, 162,      5,  3.0
+deposit,    163,      6,  500.0
+withdrawal, 163,      7,  5.0
+dispute,    163,      7
+chargeback, 163,      7
+deposit,    164,      8,  100.00015
+dispute,    164,      8
+deposit,    165,      9,  34.33
+deposit,    165,      10,  5.0
+deposit,    166,      11,  15.024
+withdrawal, 166,      12,  10.53
+deposit,    171,      1,  1.122
+deposit,    171,      3,  2.0
+withdrawal, 171,      4,  1.5
+deposit,    172,      2,  2.0
+withdrawal, 172,      5,  3.0
+deposit,    173,      6,  500.0
+withdrawal, 173,      7,  5.0
+dispute,    173,      7
+chargeback, 173,      7
+deposit,    174,      8,  100.00015
+dispute,    174,      8
+deposit,    175,      9,  34.33
+deposit,    175,      10,  5.0
+deposit,    176,      11,  15.024
+withdrawal, 176,      12,  10.53
+deposit,    181,      1,  1.122
+deposit,    181,      3,  2.0
+withdrawal, 181,      4,  1.5
+deposit,    182,      2,  2.0
+withdrawal, 182,      5,  3.0
+deposit,    183,      6,  500.0
+withdrawal, 183,      7,  5.0
+dispute,    183,      7
+chargeback, 183,      7
+deposit,    184,      8,  100.00015
+dispute,    184,      8
+deposit,    185,      9,  34.33
+deposit,    185,      10,  5.0
+deposit,    186,      11,  15.024
+withdrawal, 186,      12,  10.53
+deposit,    191,      1,  1.122
+deposit,    191,      3,  2.0
+withdrawal, 191,      4,  1.5
+deposit,    192,      2,  2.0
+withdrawal, 192,      5,  3.0
+deposit,    193,      6,  500.0
+withdrawal, 193,      7,  5.0
+dispute,    193,      7
+chargeback, 193,      7
+deposit,    194,      8,  100.00015
+dispute,    194,      8
+deposit,    195,      9,  34.33
+deposit,    195,      10,  5.0
+deposit,    196,      11,  15.024
+withdrawal, 196,      12,  10.532
+dispute,    1000,      8
+deposit,    1135,      9,  34.33
+deposit,    1135,      10,  5.0
+deposit,    1136,      11,  15.024
+withdrawal, 1136,      12,  10.53
+deposit,    1141,      1,  1.122
+deposit,    1141,      3,  2.0
+withdrawal, 1141,      4,  1.5
+deposit,    1142,      2,  2.0
+withdrawal, 1142,      5,  3.0
+deposit,    1143,      6,  500.0
+withdrawal, 1143,      7,  5.0
+dispute,    1143,      7
+chargeback, 1143,      7
+deposit,    1122,      8,  100.00015
+dispute,    1144,      8
+deposit,    1145,      9,  34.33
+deposit,    1145,      10,  5.0
+deposit,    1146,      11,  15.024
+withdrawal, 1146,      12,  10.53
+deposit,    1151,      1,  1.122
+deposit,    1151,      3,  2.0
+withdrawal, 1151,      4,  1.5
+deposit,    1152,      2,  2.0
+withdrawal, 1152,      5,  3.0
+deposit,    1153,      6,  500.0
+withdrawal, 1153,      7,  5.0
+dispute,    1153,      7
+chargeback, 1153,      7
+deposit,    1154,      8,  100.00015
+dispute,    1154,      8
+deposit,    1155,      9,  34.33
+deposit,    1155,      10,  5.0
+deposit,    1156,      11,  15.024
+withdrawal, 1156,      12,  10.53
+deposit,    1161,      1,  1.122
+deposit,    1161,      3,  2.0
+withdrawal, 1161,      4,  1.5
+deposit,    1162,      2,  2.0
+withdrawal, 1162,      5,  3.0
+deposit,    1163,      6,  500.0
+withdrawal, 1163,      7,  5.0
+dispute,    1163,      7
+chargeback, 1163,      7
+deposit,    1164,      8,  100.00015
+dispute,    1164,      8
+deposit,    1165,      9,  34.33
+deposit,    1165,      10,  5.0
+deposit,    1166,      11,  15.024
+withdrawal, 1166,      12,  10.53
+deposit,    1171,      1,  1.122
+deposit,    1171,      3,  2.0
+withdrawal, 1171,      4,  1.5
+deposit,    1172,      2,  2.0
+withdrawal, 1172,      5,  3.0
+deposit,    1173,      6,  500.0
+withdrawal, 1173,      7,  5.0
+dispute,    1173,      7
+chargeback, 1173,      7
+deposit,    1174,      8,  100.00015
+dispute,    1174,      8
+deposit,    1175,      9,  34.33
+deposit,    1175,      10,  5.0
+deposit,    1176,      11,  15.024
+withdrawal, 1176,      12,  10.53
+deposit,    1181,      1,  1.122
+deposit,    1181,      3,  2.0
+withdrawal, 1181,      4,  1.5
+deposit,    1182,      2,  2.0
+withdrawal, 1182,      5,  3.0
+deposit,    1183,      6,  500.0
+withdrawal, 1183,      7,  5.0
+dispute,    1183,      7
+chargeback, 1183,      7
+deposit,    1184,      8,  100.00015
+dispute,    1184,      8
+deposit,    1185,      9,  34.33
+deposit,    1185,      10,  5.0
+deposit,    1186,      11,  15.024
+withdrawal, 1186,      12,  10.53
+deposit,    1191,      1,  1.122
+deposit,    1191,      3,  2.0
+withdrawal, 1191,      4,  1.5
+deposit,    1192,      2,  2.0
+withdrawal, 1192,      5,  3.0
+deposit,    1193,      6,  500.0
+withdrawal, 1193,      7,  5.0
+dispute,    1193,      7
+chargeback, 1193,      7
+deposit,    1194,      8,  100.00015
+dispute,    1194,      8
+deposit,    1195,      9,  34.33
+deposit,    1195,      10,  5.0
+deposit,    1196,      11,  15.024
+withdrawal, 1196,      12,  10.532
+deposit,    235,      9,  34.33
+deposit,    235,      10,  5.0
+deposit,    236,      11,  15.024
+withdrawal, 236,      12,  10.53
+deposit,    241,      1,  1.122
+deposit,    241,      3,  2.0
+withdrawal, 241,      4,  1.5
+deposit,    242,      2,  2.0
+withdrawal, 242,      5,  3.0
+deposit,    243,      6,  500.0
+withdrawal, 243,      7,  5.0
+dispute,    243,      7
+chargeback, 243,      7
+deposit,    222,      8,  100.00015
+dispute,    244,      8
+deposit,    245,      9,  34.33
+deposit,    245,      10,  5.0
+deposit,    246,      11,  15.024
+withdrawal, 246,      12,  10.53
+deposit,    251,      1,  1.122
+deposit,    251,      3,  2.0
+withdrawal, 251,      4,  1.5
+deposit,    252,      2,  2.0
+withdrawal, 252,      5,  3.0
+deposit,    253,      6,  500.0
+withdrawal, 253,      7,  5.0
+dispute,    253,      7
+chargeback, 253,      7
+deposit,    254,      8,  100.00015
+dispute,    254,      8
+deposit,    255,      9,  34.33
+deposit,    255,      10,  5.0
+deposit,    256,      11,  15.024
+withdrawal, 256,      12,  10.53
+deposit,    261,      1,  1.122
+deposit,    261,      3,  2.0
+withdrawal, 261,      4,  1.5
+deposit,    262,      2,  2.0
+withdrawal, 262,      5,  3.0
+deposit,    263,      6,  500.0
+withdrawal, 263,      7,  5.0
+dispute,    263,      7
+chargeback, 263,      7
+deposit,    264,      8,  100.00015
+dispute,    264,      8
+deposit,    265,      9,  34.33
+deposit,    265,      10,  5.0
+deposit,    266,      11,  15.024
+withdrawal, 266,      12,  10.53
+deposit,    271,      1,  1.122
+deposit,    271,      3,  2.0
+withdrawal, 271,      4,  1.5
+deposit,    272,      2,  2.0
+withdrawal, 272,      5,  3.0
+deposit,    273,      6,  500.0
+withdrawal, 273,      7,  5.0
+dispute,    273,      7
+chargeback, 273,      7
+deposit,    274,      8,  100.00015
+dispute,    274,      8
+deposit,    275,      9,  34.33
+deposit,    275,      10,  5.0
+deposit,    276,      11,  15.024
+withdrawal, 276,      12,  10.53
+deposit,    281,      1,  1.122
+deposit,    281,      3,  2.0
+withdrawal, 281,      4,  1.5
+deposit,    282,      2,  2.0
+withdrawal, 282,      5,  3.0
+deposit,    283,      6,  500.0
+withdrawal, 283,      7,  5.0
+dispute,    283,      7
+chargeback, 283,      7
+deposit,    284,      8,  100.00015
+dispute,    284,      8
+deposit,    285,      9,  34.33
+deposit,    285,      10,  5.0
+deposit,    286,      11,  15.024
+withdrawal, 286,      12,  10.53
+deposit,    291,      1,  1.122
+deposit,    291,      3,  2.0
+withdrawal, 291,      4,  1.5
+deposit,    292,      2,  2.0
+withdrawal, 292,      5,  3.0
+deposit,    293,      6,  500.0
+withdrawal, 293,      7,  5.0
+dispute,    293,      7
+chargeback, 293,      7
+deposit,    294,      8,  100.00015
+dispute,    294,      8
+deposit,    295,      9,  34.33
+deposit,    295,      10,  5.0
+deposit,    296,      11,  15.024
+withdrawal, 296,      12,  10.532
+dispute,    2000,      8
+deposit,    2135,      9,  34.33
+deposit,    2135,      10,  5.0
+deposit,    2136,      11,  15.024
+withdrawal, 2136,      12,  10.53
+deposit,    2141,      1,  1.122
+deposit,    2141,      3,  2.0
+withdrawal, 2141,      4,  1.5
+deposit,    2142,      2,  2.0
+withdrawal, 2142,      5,  3.0
+deposit,    2143,      6,  500.0
+withdrawal, 2143,      7,  5.0
+dispute,    2143,      7
+chargeback, 2143,      7
+deposit,    2122,      8,  100.00015
+dispute,    2144,      8
+deposit,    2145,      9,  34.33
+deposit,    2145,      10,  5.0
+deposit,    2146,      11,  15.024
+withdrawal, 2146,      12,  10.53
+deposit,    2151,      1,  1.122
+deposit,    2151,      3,  2.0
+withdrawal, 2151,      4,  1.5
+deposit,    2152,      2,  2.0
+withdrawal, 2152,      5,  3.0
+deposit,    2153,      6,  500.0
+withdrawal, 2153,      7,  5.0
+dispute,    2153,      7
+chargeback, 2153,      7
+deposit,    2154,      8,  100.00015
+dispute,    2154,      8
+deposit,    2155,      9,  34.33
+deposit,    2155,      10,  5.0
+deposit,    2156,      11,  15.024
+withdrawal, 2156,      12,  10.53
+deposit,    2161,      1,  1.122
+deposit,    2161,      3,  2.0
+withdrawal, 2161,      4,  1.5
+deposit,    2162,      2,  2.0
+withdrawal, 2162,      5,  3.0
+deposit,    2163,      6,  500.0
+withdrawal, 2163,      7,  5.0
+dispute,    2163,      7
+chargeback, 2163,      7
+deposit,    2164,      8,  100.00015
+dispute,    2164,      8
+deposit,    2165,      9,  34.33
+deposit,    2165,      10,  5.0
+deposit,    2166,      11,  15.024
+withdrawal, 2166,      12,  10.53
+deposit,    2171,      1,  1.122
+deposit,    2171,      3,  2.0
+withdrawal, 2171,      4,  1.5
+deposit,    2172,      2,  2.0
+withdrawal, 2172,      5,  3.0
+deposit,    2173,      6,  500.0
+withdrawal, 2173,      7,  5.0
+dispute,    2173,      7
+chargeback, 2173,      7
+deposit,    2174,      8,  100.00015
+dispute,    2174,      8
+deposit,    2175,      9,  34.33
+deposit,    2175,      10,  5.0
+deposit,    2176,      11,  15.024
+withdrawal, 2176,      12,  10.53
+deposit,    2181,      1,  1.122
+deposit,    2181,      3,  2.0
+withdrawal, 2181,      4,  1.5
+deposit,    2182,      2,  2.0
+withdrawal, 2182,      5,  3.0
+deposit,    2183,      6,  500.0
+withdrawal, 2183,      7,  5.0
+dispute,    2183,      7
+chargeback, 2183,      7
+deposit,    2184,      8,  100.00015
+dispute,    2184,      8
+deposit,    2185,      9,  34.33
+deposit,    2185,      10,  5.0
+deposit,    2186,      11,  15.024
+withdrawal, 2186,      12,  10.53
+deposit,    2191,      1,  1.122
+deposit,    2191,      3,  2.0
+withdrawal, 2191,      4,  1.5
+deposit,    2192,      2,  2.0
+withdrawal, 2192,      5,  3.0
+deposit,    2193,      6,  500.0
+withdrawal, 2193,      7,  5.0
+dispute,    2193,      7
+chargeback, 2193,      7
+deposit,    2194,      8,  100.00015
+dispute,    2194,      8
+deposit,    2195,      9,  34.33
+deposit,    2195,      10,  5.0
+deposit,    2196,      11,  15.024
+withdrawal, 2196,      12,  10.532
+deposit,    335,      9,  34.33
+deposit,    335,      10,  5.0
+deposit,    336,      11,  15.024
+withdrawal, 336,      12,  10.53
+deposit,    341,      1,  1.122
+deposit,    341,      3,  2.0
+withdrawal, 341,      4,  1.5
+deposit,    342,      2,  2.0
+withdrawal, 342,      5,  3.0
+deposit,    343,      6,  500.0
+withdrawal, 343,      7,  5.0
+dispute,    343,      7
+chargeback, 343,      7
+deposit,    322,      8,  100.00015
+dispute,    344,      8
+deposit,    345,      9,  34.33
+deposit,    345,      10,  5.0
+deposit,    346,      11,  15.024
+withdrawal, 346,      12,  10.53
+deposit,    351,      1,  1.122
+deposit,    351,      3,  2.0
+withdrawal, 351,      4,  1.5
+deposit,    352,      2,  2.0
+withdrawal, 352,      5,  3.0
+deposit,    353,      6,  500.0
+withdrawal, 353,      7,  5.0
+dispute,    353,      7
+chargeback, 353,      7
+deposit,    354,      8,  100.00015
+dispute,    354,      8
+deposit,    355,      9,  34.33
+deposit,    355,      10,  5.0
+deposit,    356,      11,  15.024
+withdrawal, 356,      12,  10.53
+deposit,    361,      1,  1.122
+deposit,    361,      3,  2.0
+withdrawal, 361,      4,  1.5
+deposit,    362,      2,  2.0
+withdrawal, 362,      5,  3.0
+deposit,    363,      6,  500.0
+withdrawal, 363,      7,  5.0
+dispute,    363,      7
+chargeback, 363,      7
+deposit,    364,      8,  100.00015
+dispute,    364,      8
+deposit,    365,      9,  34.33
+deposit,    365,      10,  5.0
+deposit,    366,      11,  15.024
+withdrawal, 366,      12,  10.53
+deposit,    371,      1,  1.122
+deposit,    371,      3,  2.0
+withdrawal, 371,      4,  1.5
+deposit,    372,      2,  2.0
+withdrawal, 372,      5,  3.0
+deposit,    373,      6,  500.0
+withdrawal, 373,      7,  5.0
+dispute,    373,      7
+chargeback, 373,      7
+deposit,    374,      8,  100.00015
+dispute,    374,      8
+deposit,    375,      9,  34.33
+deposit,    375,      10,  5.0
+deposit,    376,      11,  15.024
+withdrawal, 376,      12,  10.53
+deposit,    381,      1,  1.122
+deposit,    381,      3,  2.0
+withdrawal, 381,      4,  1.5
+deposit,    382,      2,  2.0
+withdrawal, 382,      5,  3.0
+deposit,    383,      6,  500.0
+withdrawal, 383,      7,  5.0
+dispute,    383,      7
+chargeback, 383,      7
+deposit,    384,      8,  100.00015
+dispute,    384,      8
+deposit,    385,      9,  34.33
+deposit,    385,      10,  5.0
+deposit,    386,      11,  15.024
+withdrawal, 386,      12,  10.53
+deposit,    391,      1,  1.122
+deposit,    391,      3,  2.0
+withdrawal, 391,      4,  1.5
+deposit,    392,      2,  2.0
+withdrawal, 392,      5,  3.0
+deposit,    393,      6,  500.0
+withdrawal, 393,      7,  5.0
+dispute,    393,      7
+chargeback, 393,      7
+deposit,    394,      8,  100.00015
+dispute,    394,      8
+deposit,    395,      9,  34.33
+deposit,    395,      10,  5.0
+deposit,    396,      11,  15.024
+withdrawal, 396,      12,  10.532
+dispute,    3000,      8
+deposit,    3135,      9,  34.33
+deposit,    3135,      10,  5.0
+deposit,    3136,      11,  15.024
+withdrawal, 3136,      12,  10.53
+deposit,    3141,      1,  1.122
+deposit,    3141,      3,  2.0
+withdrawal, 3141,      4,  1.5
+deposit,    3142,      2,  2.0
+withdrawal, 3142,      5,  3.0
+deposit,    3143,      6,  500.0
+withdrawal, 3143,      7,  5.0
+dispute,    3143,      7
+chargeback, 3143,      7
+deposit,    3122,      8,  100.00015
+dispute,    3144,      8
+deposit,    3145,      9,  34.33
+deposit,    3145,      10,  5.0
+deposit,    3146,      11,  15.024
+withdrawal, 3146,      12,  10.53
+deposit,    3151,      1,  1.122
+deposit,    3151,      3,  2.0
+withdrawal, 3151,      4,  1.5
+deposit,    3152,      2,  2.0
+withdrawal, 3152,      5,  3.0
+deposit,    3153,      6,  500.0
+withdrawal, 3153,      7,  5.0
+dispute,    3153,      7
+chargeback, 3153,      7
+deposit,    3154,      8,  100.00015
+dispute,    3154,      8
+deposit,    3155,      9,  34.33
+deposit,    3155,      10,  5.0
+deposit,    3156,      11,  15.024
+withdrawal, 3156,      12,  10.53
+deposit,    3161,      1,  1.122
+deposit,    3161,      3,  2.0
+withdrawal, 3161,      4,  1.5
+deposit,    3162,      2,  2.0
+withdrawal, 3162,      5,  3.0
+deposit,    3163,      6,  500.0
+withdrawal, 3163,      7,  5.0
+dispute,    3163,      7
+chargeback, 3163,      7
+deposit,    3164,      8,  100.00015
+dispute,    3164,      8
+deposit,    3165,      9,  34.33
+deposit,    3165,      10,  5.0
+deposit,    3166,      11,  15.024
+withdrawal, 3166,      12,  10.53
+deposit,    3171,      1,  1.122
+deposit,    3171,      3,  2.0
+withdrawal, 3171,      4,  1.5
+deposit,    3172,      2,  2.0
+withdrawal, 3172,      5,  3.0
+deposit,    3173,      6,  500.0
+withdrawal, 3173,      7,  5.0
+dispute,    3173,      7
+chargeback, 3173,      7
+deposit,    3174,      8,  100.00015
+dispute,    3174,      8
+deposit,    3175,      9,  34.33
+deposit,    3175,      10,  5.0
+deposit,    3176,      11,  15.024
+withdrawal, 3176,      12,  10.53
+deposit,    3181,      1,  1.122
+deposit,    3181,      3,  2.0
+withdrawal, 3181,      4,  1.5
+deposit,    3182,      2,  2.0
+withdrawal, 3182,      5,  3.0
+deposit,    3183,      6,  500.0
+withdrawal, 3183,      7,  5.0
+dispute,    3183,      7
+chargeback, 3183,      7
+deposit,    3184,      8,  100.00015
+dispute,    3184,      8
+deposit,    3185,      9,  34.33
+deposit,    3185,      10,  5.0
+deposit,    3186,      11,  15.024
+withdrawal, 3186,      12,  10.53
+deposit,    3191,      1,  1.122
+deposit,    3191,      3,  2.0
+withdrawal, 3191,      4,  1.5
+deposit,    3192,      2,  2.0
+withdrawal, 3192,      5,  3.0
+deposit,    3193,      6,  500.0
+withdrawal, 3193,      7,  5.0
+dispute,    3193,      7
+chargeback, 3193,      7
+deposit,    3194,      8,  100.00015
+dispute,    3194,      8
+deposit,    3195,      9,  34.33
+deposit,    3195,      10,  5.0
+deposit,    3196,      11,  15.024
+withdrawal, 3196,      12,  10.532
+deposit,    435,      9,  34.33
+deposit,    435,      10,  5.0
+deposit,    436,      11,  15.024
+withdrawal, 436,      12,  10.53
+deposit,    441,      1,  1.122
+deposit,    441,      3,  2.0
+withdrawal, 441,      4,  1.5
+deposit,    442,      2,  2.0
+withdrawal, 442,      5,  3.0
+deposit,    443,      6,  500.0
+withdrawal, 443,      7,  5.0
+dispute,    443,      7
+chargeback, 443,      7
+deposit,    422,      8,  100.00015
+dispute,    444,      8
+deposit,    445,      9,  34.33
+deposit,    445,      10,  5.0
+deposit,    446,      11,  15.024
+withdrawal, 446,      12,  10.53
+deposit,    451,      1,  1.122
+deposit,    451,      3,  2.0
+withdrawal, 451,      4,  1.5
+deposit,    452,      2,  2.0
+withdrawal, 452,      5,  3.0
+deposit,    453,      6,  500.0
+withdrawal, 453,      7,  5.0
+dispute,    453,      7
+chargeback, 453,      7
+deposit,    454,      8,  100.00015
+dispute,    454,      8
+deposit,    455,      9,  34.33
+deposit,    455,      10,  5.0
+deposit,    456,      11,  15.024
+withdrawal, 456,      12,  10.53
+deposit,    461,      1,  1.122
+deposit,    461,      3,  2.0
+withdrawal, 461,      4,  1.5
+deposit,    462,      2,  2.0
+withdrawal, 462,      5,  3.0
+deposit,    463,      6,  500.0
+withdrawal, 463,      7,  5.0
+dispute,    463,      7
+chargeback, 463,      7
+deposit,    464,      8,  100.00015
+dispute,    464,      8
+deposit,    465,      9,  34.33
+deposit,    465,      10,  5.0
+deposit,    466,      11,  15.024
+withdrawal, 466,      12,  10.53
+deposit,    471,      1,  1.122
+deposit,    471,      3,  2.0
+withdrawal, 471,      4,  1.5
+deposit,    472,      2,  2.0
+withdrawal, 472,      5,  3.0
+deposit,    473,      6,  500.0
+withdrawal, 473,      7,  5.0
+dispute,    473,      7
+chargeback, 473,      7
+deposit,    474,      8,  100.00015
+dispute,    474,      8
+deposit,    475,      9,  34.33
+deposit,    475,      10,  5.0
+deposit,    476,      11,  15.024
+withdrawal, 476,      12,  10.53
+deposit,    481,      1,  1.122
+deposit,    481,      3,  2.0
+withdrawal, 481,      4,  1.5
+deposit,    482,      2,  2.0
+withdrawal, 482,      5,  3.0
+deposit,    483,      6,  500.0
+withdrawal, 483,      7,  5.0
+dispute,    483,      7
+chargeback, 483,      7
+deposit,    484,      8,  100.00015
+dispute,    484,      8
+deposit,    485,      9,  34.33
+deposit,    485,      10,  5.0
+deposit,    486,      11,  15.024
+withdrawal, 486,      12,  10.53
+deposit,    491,      1,  1.122
+deposit,    491,      3,  2.0
+withdrawal, 491,      4,  1.5
+deposit,    492,      2,  2.0
+withdrawal, 492,      5,  3.0
+deposit,    493,      6,  500.0
+withdrawal, 493,      7,  5.0
+dispute,    493,      7
+chargeback, 493,      7
+deposit,    494,      8,  100.00015
+dispute,    494,      8
+deposit,    495,      9,  34.33
+deposit,    495,      10,  5.0
+deposit,    496,      11,  15.024
+withdrawal, 496,      12,  10.532
+dispute,    4000,      8
+deposit,    4135,      9,  34.33
+deposit,    4135,      10,  5.0
+deposit,    4136,      11,  15.024
+withdrawal, 4136,      12,  10.53
+deposit,    4141,      1,  1.122
+deposit,    4141,      3,  2.0
+withdrawal, 4141,      4,  1.5
+deposit,    4142,      2,  2.0
+withdrawal, 4142,      5,  3.0
+deposit,    4143,      6,  500.0
+withdrawal, 4143,      7,  5.0
+dispute,    4143,      7
+chargeback, 4143,      7
+deposit,    4122,      8,  100.00015
+dispute,    4144,      8
+deposit,    4145,      9,  34.33
+deposit,    4145,      10,  5.0
+deposit,    4146,      11,  15.024
+withdrawal, 4146,      12,  10.53
+deposit,    4151,      1,  1.122
+deposit,    4151,      3,  2.0
+withdrawal, 4151,      4,  1.5
+deposit,    4152,      2,  2.0
+withdrawal, 4152,      5,  3.0
+deposit,    4153,      6,  500.0
+withdrawal, 4153,      7,  5.0
+dispute,    4153,      7
+chargeback, 4153,      7
+deposit,    4154,      8,  100.00015
+dispute,    4154,      8
+deposit,    4155,      9,  34.33
+deposit,    4155,      10,  5.0
+deposit,    4156,      11,  15.024
+withdrawal, 4156,      12,  10.53
+deposit,    4161,      1,  1.122
+deposit,    4161,      3,  2.0
+withdrawal, 4161,      4,  1.5
+deposit,    4162,      2,  2.0
+withdrawal, 4162,      5,  3.0
+deposit,    4163,      6,  500.0
+withdrawal, 4163,      7,  5.0
+dispute,    4163,      7
+chargeback, 4163,      7
+deposit,    4164,      8,  100.00015
+dispute,    4164,      8
+deposit,    4165,      9,  34.33
+deposit,    4165,      10,  5.0
+deposit,    4166,      11,  15.024
+withdrawal, 4166,      12,  10.53
+deposit,    4171,      1,  1.122
+deposit,    4171,      3,  2.0
+withdrawal, 4171,      4,  1.5
+deposit,    4172,      2,  2.0
+withdrawal, 4172,      5,  3.0
+deposit,    4173,      6,  500.0
+withdrawal, 4173,      7,  5.0
+dispute,    4173,      7
+chargeback, 4173,      7
+deposit,    4174,      8,  100.00015
+dispute,    4174,      8
+deposit,    4175,      9,  34.33
+deposit,    4175,      10,  5.0
+deposit,    4176,      11,  15.024
+withdrawal, 4176,      12,  10.53
+deposit,    4181,      1,  1.122
+deposit,    4181,      3,  2.0
+withdrawal, 4181,      4,  1.5
+deposit,    4182,      2,  2.0
+withdrawal, 4182,      5,  3.0
+deposit,    4183,      6,  500.0
+withdrawal, 4183,      7,  5.0
+dispute,    4183,      7
+chargeback, 4183,      7
+deposit,    4184,      8,  100.00015
+dispute,    4184,      8
+deposit,    4185,      9,  34.33
+deposit,    4185,      10,  5.0
+deposit,    4186,      11,  15.024
+withdrawal, 4186,      12,  10.53
+deposit,    4191,      1,  1.122
+deposit,    4191,      3,  2.0
+withdrawal, 4191,      4,  1.5
+deposit,    4192,      2,  2.0
+withdrawal, 4192,      5,  3.0
+deposit,    4193,      6,  500.0
+withdrawal, 4193,      7,  5.0
+dispute,    4193,      7
+chargeback, 4193,      7
+deposit,    4194,      8,  100.00015
+dispute,    4194,      8
+deposit,    4195,      9,  34.33
+deposit,    4195,      10,  5.0
+deposit,    4196,      11,  15.024
+withdrawal, 4196,      12,  10.532
+deposit,    535,      9,  34.33
+deposit,    535,      10,  5.0
+deposit,    536,      11,  15.024
+withdrawal, 536,      12,  10.53
+deposit,    541,      1,  1.122
+deposit,    541,      3,  2.0
+withdrawal, 541,      4,  1.5
+deposit,    542,      2,  2.0
+withdrawal, 542,      5,  3.0
+deposit,    543,      6,  500.0
+withdrawal, 543,      7,  5.0
+dispute,    543,      7
+chargeback, 543,      7
+deposit,    522,      8,  100.00015
+dispute,    544,      8
+deposit,    545,      9,  34.33
+deposit,    545,      10,  5.0
+deposit,    546,      11,  15.024
+withdrawal, 546,      12,  10.53
+deposit,    551,      1,  1.122
+deposit,    551,      3,  2.0
+withdrawal, 551,      4,  1.5
+deposit,    552,      2,  2.0
+withdrawal, 552,      5,  3.0
+deposit,    553,      6,  500.0
+withdrawal, 553,      7,  5.0
+dispute,    553,      7
+chargeback, 553,      7
+deposit,    554,      8,  100.00015
+dispute,    554,      8
+deposit,    555,      9,  34.33
+deposit,    555,      10,  5.0
+deposit,    556,      11,  15.024
+withdrawal, 556,      12,  10.53
+deposit,    561,      1,  1.122
+deposit,    561,      3,  2.0
+withdrawal, 561,      4,  1.5
+deposit,    562,      2,  2.0
+withdrawal, 562,      5,  3.0
+deposit,    563,      6,  500.0
+withdrawal, 563,      7,  5.0
+dispute,    563,      7
+chargeback, 563,      7
+deposit,    564,      8,  100.00015
+dispute,    564,      8
+deposit,    565,      9,  34.33
+deposit,    565,      10,  5.0
+deposit,    566,      11,  15.024
+withdrawal, 566,      12,  10.53
+deposit,    571,      1,  1.122
+deposit,    571,      3,  2.0
+withdrawal, 571,      4,  1.5
+deposit,    572,      2,  2.0
+withdrawal, 572,      5,  3.0
+deposit,    573,      6,  500.0
+withdrawal, 573,      7,  5.0
+dispute,    573,      7
+chargeback, 573,      7
+deposit,    574,      8,  100.00015
+dispute,    574,      8
+deposit,    575,      9,  34.33
+deposit,    575,      10,  5.0
+deposit,    576,      11,  15.024
+withdrawal, 576,      12,  10.53
+deposit,    581,      1,  1.122
+deposit,    581,      3,  2.0
+withdrawal, 581,      4,  1.5
+deposit,    582,      2,  2.0
+withdrawal, 582,      5,  3.0
+deposit,    583,      6,  500.0
+withdrawal, 583,      7,  5.0
+dispute,    583,      7
+chargeback, 583,      7
+deposit,    584,      8,  100.00015
+dispute,    584,      8
+deposit,    585,      9,  34.33
+deposit,    585,      10,  5.0
+deposit,    586,      11,  15.024
+withdrawal, 586,      12,  10.53
+deposit,    591,      1,  1.122
+deposit,    591,      3,  2.0
+withdrawal, 591,      4,  1.5
+deposit,    592,      2,  2.0
+withdrawal, 592,      5,  3.0
+deposit,    593,      6,  500.0
+withdrawal, 593,      7,  5.0
+dispute,    593,      7
+chargeback, 593,      7
+deposit,    594,      8,  100.00015
+dispute,    594,      8
+deposit,    595,      9,  34.33
+deposit,    595,      10,  5.0
+deposit,    596,      11,  15.024
+withdrawal, 596,      12,  10.532
+dispute,    5000,      8
+deposit,    5135,      9,  34.33
+deposit,    5135,      10,  5.0
+deposit,    5136,      11,  15.024
+withdrawal, 5136,      12,  10.53
+deposit,    5141,      1,  1.122
+deposit,    5141,      3,  2.0
+withdrawal, 5141,      4,  1.5
+deposit,    5142,      2,  2.0
+withdrawal, 5142,      5,  3.0
+deposit,    5143,      6,  500.0
+withdrawal, 5143,      7,  5.0
+dispute,    5143,      7
+chargeback, 5143,      7
+deposit,    5122,      8,  100.00015
+dispute,    5144,      8
+deposit,    5145,      9,  34.33
+deposit,    5145,      10,  5.0
+deposit,    5146,      11,  15.024
+withdrawal, 5146,      12,  10.53
+deposit,    5151,      1,  1.122
+deposit,    5151,      3,  2.0
+withdrawal, 5151,      4,  1.5
+deposit,    5152,      2,  2.0
+withdrawal, 5152,      5,  3.0
+deposit,    5153,      6,  500.0
+withdrawal, 5153,      7,  5.0
+dispute,    5153,      7
+chargeback, 5153,      7
+deposit,    5154,      8,  100.00015
+dispute,    5154,      8
+deposit,    5155,      9,  34.33
+deposit,    5155,      10,  5.0
+deposit,    5156,      11,  15.024
+withdrawal, 5156,      12,  10.53
+deposit,    5161,      1,  1.122
+deposit,    5161,      3,  2.0
+withdrawal, 5161,      4,  1.5
+deposit,    5162,      2,  2.0
+withdrawal, 5162,      5,  3.0
+deposit,    5163,      6,  500.0
+withdrawal, 5163,      7,  5.0
+dispute,    5163,      7
+chargeback, 5163,      7
+deposit,    5164,      8,  100.00015
+dispute,    5164,      8
+deposit,    5165,      9,  34.33
+deposit,    5165,      10,  5.0
+deposit,    5166,      11,  15.024
+withdrawal, 5166,      12,  10.53
+deposit,    5171,      1,  1.122
+deposit,    5171,      3,  2.0
+withdrawal, 5171,      4,  1.5
+deposit,    5172,      2,  2.0
+withdrawal, 5172,      5,  3.0
+deposit,    5173,      6,  500.0
+withdrawal, 5173,      7,  5.0
+dispute,    5173,      7
+chargeback, 5173,      7
+deposit,    5174,      8,  100.00015
+dispute,    5174,      8
+deposit,    5175,      9,  34.33
+deposit,    5175,      10,  5.0
+deposit,    5176,      11,  15.024
+withdrawal, 5176,      12,  10.53
+deposit,    5181,      1,  1.122
+deposit,    5181,      3,  2.0
+withdrawal, 5181,      4,  1.5
+deposit,    5182,      2,  2.0
+withdrawal, 5182,      5,  3.0
+deposit,    5183,      6,  500.0
+withdrawal, 5183,      7,  5.0
+dispute,    5183,      7
+chargeback, 5183,      7
+deposit,    5184,      8,  100.00015
+dispute,    5184,      8
+deposit,    5185,      9,  34.33
+deposit,    5185,      10,  5.0
+deposit,    5186,      11,  15.024
+withdrawal, 5186,      12,  10.53
+deposit,    5191,      1,  1.122
+deposit,    5191,      3,  2.0
+withdrawal, 5191,      4,  1.5
+deposit,    5192,      2,  2.0
+withdrawal, 5192,      5,  3.0
+deposit,    5193,      6,  500.0
+withdrawal, 5193,      7,  5.0
+dispute,    5193,      7
+chargeback, 5193,      7
+deposit,    5194,      8,  100.00015
+dispute,    5194,      8
+deposit,    5195,      9,  34.33
+deposit,    5195,      10,  5.0
+deposit,    5196,      11,  15.024
+withdrawal, 5196,      12,  10.532
+deposit,    635,      9,  34.33
+deposit,    635,      10,  5.0
+deposit,    636,      11,  15.024
+withdrawal, 636,      12,  10.53
+deposit,    641,      1,  1.122
+deposit,    641,      3,  2.0
+withdrawal, 641,      4,  1.5
+deposit,    642,      2,  2.0
+withdrawal, 642,      5,  3.0
+deposit,    643,      6,  500.0
+withdrawal, 643,      7,  5.0
+dispute,    643,      7
+chargeback, 643,      7
+deposit,    622,      8,  100.00015
+dispute,    644,      8
+deposit,    645,      9,  34.33
+deposit,    645,      10,  5.0
+deposit,    646,      11,  15.024
+withdrawal, 646,      12,  10.53
+deposit,    651,      1,  1.122
+deposit,    651,      3,  2.0
+withdrawal, 651,      4,  1.5
+deposit,    652,      2,  2.0
+withdrawal, 652,      5,  3.0
+deposit,    653,      6,  500.0
+withdrawal, 653,      7,  5.0
+dispute,    653,      7
+chargeback, 653,      7
+deposit,    654,      8,  100.00015
+dispute,    654,      8
+deposit,    655,      9,  34.33
+deposit,    655,      10,  5.0
+deposit,    656,      11,  15.024
+withdrawal, 656,      12,  10.53
+deposit,    661,      1,  1.122
+deposit,    661,      3,  2.0
+withdrawal, 661,      4,  1.5
+deposit,    662,      2,  2.0
+withdrawal, 662,      5,  3.0
+deposit,    663,      6,  500.0
+withdrawal, 663,      7,  5.0
+dispute,    663,      7
+chargeback, 663,      7
+deposit,    664,      8,  100.00015
+dispute,    664,      8
+deposit,    665,      9,  34.33
+deposit,    665,      10,  5.0
+deposit,    666,      11,  15.024
+withdrawal, 666,      12,  10.53
+deposit,    671,      1,  1.122
+deposit,    671,      3,  2.0
+withdrawal, 671,      4,  1.5
+deposit,    672,      2,  2.0
+withdrawal, 672,      5,  3.0
+deposit,    673,      6,  500.0
+withdrawal, 673,      7,  5.0
+dispute,    673,      7
+chargeback, 673,      7
+deposit,    674,      8,  100.00015
+dispute,    674,      8
+deposit,    675,      9,  34.33
+deposit,    675,      10,  5.0
+deposit,    676,      11,  15.024
+withdrawal, 676,      12,  10.53
+deposit,    681,      1,  1.122
+deposit,    681,      3,  2.0
+withdrawal, 681,      4,  1.5
+deposit,    682,      2,  2.0
+withdrawal, 682,      5,  3.0
+deposit,    683,      6,  500.0
+withdrawal, 683,      7,  5.0
+dispute,    683,      7
+chargeback, 683,      7
+deposit,    684,      8,  100.00015
+dispute,    684,      8
+deposit,    685,      9,  34.33
+deposit,    685,      10,  5.0
+deposit,    686,      11,  15.024
+withdrawal, 686,      12,  10.53
+deposit,    691,      1,  1.122
+deposit,    691,      3,  2.0
+withdrawal, 691,      4,  1.5
+deposit,    692,      2,  2.0
+withdrawal, 692,      5,  3.0
+deposit,    693,      6,  500.0
+withdrawal, 693,      7,  5.0
+dispute,    693,      7
+chargeback, 693,      7
+deposit,    694,      8,  100.00015
+dispute,    694,      8
+deposit,    695,      9,  34.33
+deposit,    695,      10,  5.0
+deposit,    696,      11,  15.024
+withdrawal, 1696,      12,  10.532
+dispute,    16000,      8
+deposit,    16135,      9,  34.33
+deposit,    16135,      10,  5.0
+deposit,    16136,      11,  15.024
+withdrawal, 16136,      12,  10.53
+deposit,    16141,      1,  1.122
+deposit,    16141,      3,  2.0
+withdrawal, 16141,      4,  1.5
+deposit,    16142,      2,  2.0
+withdrawal, 16142,      5,  3.0
+deposit,    16143,      6,  500.0
+withdrawal, 16143,      7,  5.0
+dispute,    16143,      7
+chargeback, 16143,      7
+deposit,    16122,      8,  100.00015
+dispute,    16144,      8
+deposit,    16145,      9,  34.33
+deposit,    16145,      10,  5.0
+deposit,    16146,      11,  15.024
+withdrawal, 16146,      12,  10.53
+deposit,    16151,      1,  1.122
+deposit,    16151,      3,  2.0
+withdrawal, 16151,      4,  1.5
+deposit,    16152,      2,  2.0
+withdrawal, 16152,      5,  3.0
+deposit,    16153,      6,  500.0
+withdrawal, 16153,      7,  5.0
+dispute,    16153,      7
+chargeback, 16153,      7
+deposit,    16154,      8,  100.00015
+dispute,    16154,      8
+deposit,    16155,      9,  34.33
+deposit,    16155,      10,  5.0
+deposit,    16156,      11,  15.024
+withdrawal, 16156,      12,  10.53
+deposit,    16161,      1,  1.122
+deposit,    16161,      3,  2.0
+withdrawal, 16161,      4,  1.5
+deposit,    16162,      2,  2.0
+withdrawal, 16162,      5,  3.0
+deposit,    16163,      6,  500.0
+withdrawal, 16163,      7,  5.0
+dispute,    16163,      7
+chargeback, 16163,      7
+deposit,    16164,      8,  100.00015
+dispute,    16164,      8
+deposit,    16165,      9,  34.33
+deposit,    16165,      10,  5.0
+deposit,    16166,      11,  15.024
+withdrawal, 16166,      12,  10.53
+deposit,    16171,      1,  1.122
+deposit,    16171,      3,  2.0
+withdrawal, 16171,      4,  1.5
+deposit,    16172,      2,  2.0
+withdrawal, 16172,      5,  3.0
+deposit,    16173,      6,  500.0
+withdrawal, 16173,      7,  5.0
+dispute,    16173,      7
+chargeback, 16173,      7
+deposit,    16174,      8,  100.00015
+dispute,    16174,      8
+deposit,    16175,      9,  34.33
+deposit,    16175,      10,  5.0
+deposit,    16176,      11,  15.024
+withdrawal, 16176,      12,  10.53
+deposit,    16181,      1,  1.122
+deposit,    16181,      3,  2.0
+withdrawal, 16181,      4,  1.5
+deposit,    16182,      2,  2.0
+withdrawal, 16182,      5,  3.0
+deposit,    16183,      6,  500.0
+withdrawal, 16183,      7,  5.0
+dispute,    16183,      7
+chargeback, 16183,      7
+deposit,    16184,      8,  100.00015
+dispute,    16184,      8
+deposit,    16185,      9,  34.33
+deposit,    16185,      10,  5.0
+deposit,    16186,      11,  15.024
+withdrawal, 16186,      12,  10.53
+deposit,    16191,      1,  1.122
+deposit,    16191,      3,  2.0
+withdrawal, 16191,      4,  1.5
+deposit,    16192,      2,  2.0
+withdrawal, 16192,      5,  3.0
+deposit,    16193,      6,  500.0
+withdrawal, 16193,      7,  5.0
+dispute,    16193,      7
+chargeback, 16193,      7
+deposit,    16194,      8,  100.00015
+dispute,    16194,      8
+deposit,    16195,      9,  34.33
+deposit,    16195,      10,  5.0
+deposit,    16196,      11,  15.024
+withdrawal, 16196,      12,  10.532
+deposit,    1735,      9,  34.33
+deposit,    1735,      10,  5.0
+deposit,    1736,      11,  15.024
+withdrawal, 1736,      12,  10.53
+deposit,    1741,      1,  1.122
+deposit,    1741,      3,  2.0
+withdrawal, 1741,      4,  1.5
+deposit,    1742,      2,  2.0
+withdrawal, 1742,      5,  3.0
+deposit,    1743,      6,  500.0
+withdrawal, 1743,      7,  5.0
+dispute,    1743,      7
+chargeback, 1743,      7
+deposit,    1722,      8,  100.00015
+dispute,    1744,      8
+deposit,    1745,      9,  34.33
+deposit,    1745,      10,  5.0
+deposit,    1746,      11,  15.024
+withdrawal, 1746,      12,  10.53
+deposit,    1751,      1,  1.122
+deposit,    751,      3,  2.0
+withdrawal, 751,      4,  1.5
+deposit,    752,      2,  2.0
+withdrawal, 752,      5,  3.0
+deposit,    753,      6,  500.0
+withdrawal, 753,      7,  5.0
+dispute,    753,      7
+chargeback, 753,      7
+deposit,    754,      8,  100.00015
+dispute,    754,      8
+deposit,    755,      9,  34.33
+deposit,    755,      10,  5.0
+deposit,    756,      11,  15.024
+withdrawal, 756,      12,  10.53
+deposit,    761,      1,  1.122
+deposit,    761,      3,  2.0
+withdrawal, 761,      4,  1.5
+deposit,    762,      2,  2.0
+withdrawal, 762,      5,  3.0
+deposit,    763,      6,  500.0
+withdrawal, 763,      7,  5.0
+dispute,    763,      7
+chargeback, 763,      7
+deposit,    764,      8,  100.00015
+dispute,    764,      8
+deposit,    765,      9,  34.33
+deposit,    765,      10,  5.0
+deposit,    766,      11,  15.024
+withdrawal, 766,      12,  10.53
+deposit,    771,      1,  1.122
+deposit,    771,      3,  2.0
+withdrawal, 771,      4,  1.5
+deposit,    772,      2,  2.0
+withdrawal, 772,      5,  3.0
+deposit,    773,      6,  500.0
+withdrawal, 773,      7,  5.0
+dispute,    773,      7
+chargeback, 773,      7
+deposit,    774,      8,  100.00015
+dispute,    774,      8
+deposit,    775,      9,  34.33
+deposit,    775,      10,  5.0
+deposit,    776,      11,  15.024
+withdrawal, 776,      12,  10.53
+deposit,    781,      1,  1.122
+deposit,    781,      3,  2.0
+withdrawal, 781,      4,  1.5
+deposit,    782,      2,  2.0
+withdrawal, 782,      5,  3.0
+deposit,    783,      6,  500.0
+withdrawal, 783,      7,  5.0
+dispute,    783,      7
+chargeback, 783,      7
+deposit,    784,      8,  100.00015
+dispute,    784,      8
+deposit,    785,      9,  34.33
+deposit,    785,      10,  5.0
+deposit,    786,      11,  15.024
+withdrawal, 786,      12,  10.53
+deposit,    791,      1,  1.122
+deposit,    791,      3,  2.0
+withdrawal, 791,      4,  1.5
+deposit,    792,      2,  2.0
+withdrawal, 792,      5,  3.0
+deposit,    793,      6,  500.0
+withdrawal, 793,      7,  5.0
+dispute,    793,      7
+chargeback, 793,      7
+deposit,    794,      8,  100.00015
+dispute,    794,      8
+deposit,    795,      9,  34.33
+deposit,    795,      10,  5.0
+deposit,    796,      11,  15.024
+withdrawal, 796,      12,  10.532
+dispute,    7000,      8
+deposit,    7135,      9,  34.33
+deposit,    7135,      10,  5.0
+deposit,    7136,      11,  15.024
+withdrawal, 7136,      12,  10.53
+deposit,    7141,      1,  1.122
+deposit,    7141,      3,  2.0
+withdrawal, 7141,      4,  1.5
+deposit,    7142,      2,  2.0
+withdrawal, 7142,      5,  3.0
+deposit,    7143,      6,  500.0
+withdrawal, 7143,      7,  5.0
+dispute,    7143,      7
+chargeback, 7143,      7
+deposit,    7122,      8,  100.00015
+dispute,    7144,      8
+deposit,    7145,      9,  34.33
+deposit,    7145,      10,  5.0
+deposit,    7146,      11,  15.024
+withdrawal, 7146,      12,  10.53
+deposit,    7151,      1,  1.122
+deposit,    7151,      3,  2.0
+withdrawal, 7151,      4,  1.5
+deposit,    7152,      2,  2.0
+withdrawal, 7152,      5,  3.0
+deposit,    7153,      6,  500.0
+withdrawal, 7153,      7,  5.0
+dispute,    7153,      7
+chargeback, 7153,      7
+deposit,    7154,      8,  100.00015
+dispute,    7154,      8
+deposit,    7155,      9,  34.33
+deposit,    7155,      10,  5.0
+deposit,    7156,      11,  15.024
+withdrawal, 7156,      12,  10.53
+deposit,    7161,      1,  1.122
+deposit,    7161,      3,  2.0
+withdrawal, 7161,      4,  1.5
+deposit,    7162,      2,  2.0
+withdrawal, 7162,      5,  3.0
+deposit,    7163,      6,  500.0
+withdrawal, 7163,      7,  5.0
+dispute,    7163,      7
+chargeback, 7163,      7
+deposit,    7164,      8,  100.00015
+dispute,    7164,      8
+deposit,    7165,      9,  34.33
+deposit,    7165,      10,  5.0
+deposit,    7166,      11,  15.024
+withdrawal, 7166,      12,  10.53
+deposit,    7171,      1,  1.122
+deposit,    7171,      3,  2.0
+withdrawal, 7171,      4,  1.5
+deposit,    7172,      2,  2.0
+withdrawal, 7172,      5,  3.0
+deposit,    7173,      6,  500.0
+withdrawal, 7173,      7,  5.0
+dispute,    7173,      7
+chargeback, 7173,      7
+deposit,    7174,      8,  100.00015
+dispute,    7174,      8
+deposit,    7175,      9,  34.33
+deposit,    7175,      10,  5.0
+deposit,    7176,      11,  15.024
+withdrawal, 7176,      12,  10.53
+deposit,    7181,      1,  1.122
+deposit,    7181,      3,  2.0
+withdrawal, 7181,      4,  1.5
+deposit,    7182,      2,  2.0
+withdrawal, 7182,      5,  3.0
+deposit,    7183,      6,  500.0
+withdrawal, 7183,      7,  5.0
+dispute,    7183,      7
+chargeback, 7183,      7
+deposit,    7184,      8,  100.00015
+dispute,    7184,      8
+deposit,    7185,      9,  34.33
+deposit,    7185,      10,  5.0
+deposit,    7186,      11,  15.024
+withdrawal, 7186,      12,  10.53
+deposit,    7191,      1,  1.122
+deposit,    7191,      3,  2.0
+withdrawal, 7191,      4,  1.5
+deposit,    7192,      2,  2.0
+withdrawal, 7192,      5,  3.0
+deposit,    7193,      6,  500.0
+withdrawal, 7193,      7,  5.0
+dispute,    7193,      7
+chargeback, 7193,      7
+deposit,    7194,      8,  100.00015
+dispute,    7194,      8
+deposit,    7195,      9,  34.33
+deposit,    7195,      10,  5.0
+deposit,    7196,      11,  15.024
+withdrawal, 7196,      12,  10.532
+deposit,    835,      9,  34.33
+deposit,    835,      10,  5.0
+deposit,    836,      11,  15.024
+withdrawal, 836,      12,  10.53
+deposit,    841,      1,  1.122
+deposit,    841,      3,  2.0
+withdrawal, 841,      4,  1.5
+deposit,    842,      2,  2.0
+withdrawal, 842,      5,  3.0
+deposit,    843,      6,  500.0
+withdrawal, 843,      7,  5.0
+dispute,    843,      7
+chargeback, 843,      7
+deposit,    822,      8,  100.00015
+dispute,    844,      8
+deposit,    845,      9,  34.33
+deposit,    845,      10,  5.0
+deposit,    846,      11,  15.024
+withdrawal, 846,      12,  10.53
+deposit,    851,      1,  1.122
+deposit,    851,      3,  2.0
+withdrawal, 851,      4,  1.5
+deposit,    852,      2,  2.0
+withdrawal, 852,      5,  3.0
+deposit,    853,      6,  500.0
+withdrawal, 853,      7,  5.0
+dispute,    853,      7
+chargeback, 853,      7
+deposit,    854,      8,  100.00015
+dispute,    854,      8
+deposit,    855,      9,  34.33
+deposit,    855,      10,  5.0
+deposit,    856,      11,  15.024
+withdrawal, 856,      12,  10.53
+deposit,    861,      1,  1.122
+deposit,    861,      3,  2.0
+withdrawal, 861,      4,  1.5
+deposit,    862,      2,  2.0
+withdrawal, 862,      5,  3.0
+deposit,    863,      6,  500.0
+withdrawal, 863,      7,  5.0
+dispute,    863,      7
+chargeback, 863,      7
+deposit,    864,      8,  100.00015
+dispute,    864,      8
+deposit,    865,      9,  34.33
+deposit,    865,      10,  5.0
+deposit,    866,      11,  15.024
+withdrawal, 866,      12,  10.53
+deposit,    871,      1,  1.122
+deposit,    871,      3,  2.0
+withdrawal, 871,      4,  1.5
+deposit,    872,      2,  2.0
+withdrawal, 872,      5,  3.0
+deposit,    873,      6,  500.0
+withdrawal, 873,      7,  5.0
+dispute,    873,      7
+chargeback, 873,      7
+deposit,    874,      8,  100.00015
+dispute,    874,      8
+deposit,    875,      9,  34.33
+deposit,    875,      10,  5.0
+deposit,    876,      11,  15.024
+withdrawal, 876,      12,  10.53
+deposit,    881,      1,  1.122
+deposit,    881,      3,  2.0
+withdrawal, 881,      4,  1.5
+deposit,    882,      2,  2.0
+withdrawal, 882,      5,  3.0
+deposit,    883,      6,  500.0
+withdrawal, 883,      7,  5.0
+dispute,    883,      7
+chargeback, 883,      7
+deposit,    884,      8,  100.00015
+dispute,    884,      8
+deposit,    885,      9,  34.33
+deposit,    885,      10,  5.0
+deposit,    886,      11,  15.024
+withdrawal, 886,      12,  10.53
+deposit,    891,      1,  1.122
+deposit,    891,      3,  2.0
+withdrawal, 891,      4,  1.5
+deposit,    892,      2,  2.0
+withdrawal, 892,      5,  3.0
+deposit,    893,      6,  500.0
+withdrawal, 893,      7,  5.0
+dispute,    893,      7
+chargeback, 893,      7
+deposit,    894,      8,  100.00015
+dispute,    894,      8
+deposit,    895,      9,  34.33
+deposit,    895,      10,  5.0
+deposit,    896,      11,  15.024
+withdrawal, 896,      12,  10.532
+dispute,    8000,      8
+deposit,    8135,      9,  34.33
+deposit,    8135,      10,  5.0
+deposit,    8136,      11,  15.024
+withdrawal, 8136,      12,  10.53
+deposit,    8141,      1,  1.122
+deposit,    8141,      3,  2.0
+withdrawal, 8141,      4,  1.5
+deposit,    8142,      2,  2.0
+withdrawal, 8142,      5,  3.0
+deposit,    8143,      6,  500.0
+withdrawal, 8143,      7,  5.0
+dispute,    8143,      7
+chargeback, 8143,      7
+deposit,    8122,      8,  100.00015
+dispute,    8144,      8
+deposit,    8145,      9,  34.33
+deposit,    8145,      10,  5.0
+deposit,    8146,      11,  15.024
+withdrawal, 8146,      12,  10.53
+deposit,    8151,      1,  1.122
+deposit,    8151,      3,  2.0
+withdrawal, 8151,      4,  1.5
+deposit,    8152,      2,  2.0
+withdrawal, 8152,      5,  3.0
+deposit,    8153,      6,  500.0
+withdrawal, 8153,      7,  5.0
+dispute,    8153,      7
+chargeback, 8153,      7
+deposit,    8154,      8,  100.00015
+dispute,    8154,      8
+deposit,    8155,      9,  34.33
+deposit,    8155,      10,  5.0
+deposit,    8156,      11,  15.024
+withdrawal, 8156,      12,  10.53
+deposit,    8161,      1,  1.122
+deposit,    8161,      3,  2.0
+withdrawal, 8161,      4,  1.5
+deposit,    8162,      2,  2.0
+withdrawal, 8162,      5,  3.0
+deposit,    8163,      6,  500.0
+withdrawal, 8163,      7,  5.0
+dispute,    8163,      7
+chargeback, 8163,      7
+deposit,    8164,      8,  100.00015
+dispute,    8164,      8
+deposit,    8165,      9,  34.33
+deposit,    8165,      10,  5.0
+deposit,    8166,      11,  15.024
+withdrawal, 8166,      12,  10.53
+deposit,    8171,      1,  1.122
+deposit,    8171,      3,  2.0
+withdrawal, 8171,      4,  1.5
+deposit,    8172,      2,  2.0
+withdrawal, 8172,      5,  3.0
+deposit,    8173,      6,  500.0
+withdrawal, 8173,      7,  5.0
+dispute,    8173,      7
+chargeback, 8173,      7
+deposit,    8174,      8,  100.00015
+dispute,    8174,      8
+deposit,    8175,      9,  34.33
+deposit,    8175,      10,  5.0
+deposit,    8176,      11,  15.024
+withdrawal, 8176,      12,  10.53
+deposit,    8181,      1,  1.122
+deposit,    8181,      3,  2.0
+withdrawal, 8181,      4,  1.5
+deposit,    8182,      2,  2.0
+withdrawal, 8182,      5,  3.0
+deposit,    8183,      6,  500.0
+withdrawal, 8183,      7,  5.0
+dispute,    8183,      7
+chargeback, 8183,      7
+deposit,    8184,      8,  100.00015
+dispute,    8184,      8
+deposit,    8185,      9,  34.33
+deposit,    8185,      10,  5.0
+deposit,    8186,      11,  15.024
+withdrawal, 8186,      12,  10.53
+deposit,    8191,      1,  1.122
+deposit,    8191,      3,  2.0
+withdrawal, 8191,      4,  1.5
+deposit,    8192,      2,  2.0
+withdrawal, 8192,      5,  3.0
+deposit,    8193,      6,  500.0
+withdrawal, 8193,      7,  5.0
+dispute,    8193,      7
+chargeback, 8193,      7
+deposit,    8194,      8,  100.00015
+dispute,    8194,      8
+deposit,    8195,      9,  34.33
+deposit,    8195,      10,  5.0
+deposit,    8196,      11,  15.024
+withdrawal, 8196,      12,  10.532
+deposit,    935,      9,  34.33
+deposit,    935,      10,  5.0
+deposit,    936,      11,  15.024
+withdrawal, 936,      12,  10.53
+deposit,    941,      1,  1.122
+deposit,    941,      3,  2.0
+withdrawal, 941,      4,  1.5
+deposit,    942,      2,  2.0
+withdrawal, 942,      5,  3.0
+deposit,    943,      6,  500.0
+withdrawal, 943,      7,  5.0
+dispute,    943,      7
+chargeback, 943,      7
+deposit,    922,      8,  100.00015
+dispute,    944,      8
+deposit,    945,      9,  34.33
+deposit,    945,      10,  5.0
+deposit,    946,      11,  15.024
+withdrawal, 946,      12,  10.53
+deposit,    951,      1,  1.122
+deposit,    951,      3,  2.0
+withdrawal, 951,      4,  1.5
+deposit,    952,      2,  2.0
+withdrawal, 952,      5,  3.0
+deposit,    953,      6,  500.0
+withdrawal, 953,      7,  5.0
+dispute,    953,      7
+chargeback, 953,      7
+deposit,    954,      8,  100.00015
+dispute,    954,      8
+deposit,    955,      9,  34.33
+deposit,    955,      10,  5.0
+deposit,    956,      11,  15.024
+withdrawal, 956,      12,  10.53
+deposit,    961,      1,  1.122
+deposit,    961,      3,  2.0
+withdrawal, 961,      4,  1.5
+deposit,    962,      2,  2.0
+withdrawal, 962,      5,  3.0
+deposit,    963,      6,  500.0
+withdrawal, 963,      7,  5.0
+dispute,    963,      7
+chargeback, 963,      7
+deposit,    964,      8,  100.00015
+dispute,    964,      8
+deposit,    965,      9,  34.33
+deposit,    965,      10,  5.0
+deposit,    966,      11,  15.024
+withdrawal, 966,      12,  10.53
+deposit,    971,      1,  1.122
+deposit,    971,      3,  2.0
+withdrawal, 971,      4,  1.5
+deposit,    972,      2,  2.0
+withdrawal, 972,      5,  3.0
+deposit,    973,      6,  500.0
+withdrawal, 973,      7,  5.0
+dispute,    973,      7
+chargeback, 973,      7
+deposit,    974,      8,  100.00015
+dispute,    974,      8
+deposit,    975,      9,  34.33
+deposit,    975,      10,  5.0
+deposit,    976,      11,  15.024
+withdrawal, 976,      12,  10.53
+deposit,    981,      1,  1.122
+deposit,    981,      3,  2.0
+withdrawal, 981,      4,  1.5
+deposit,    982,      2,  2.0
+withdrawal, 982,      5,  3.0
+deposit,    983,      6,  500.0
+withdrawal, 983,      7,  5.0
+dispute,    983,      7
+chargeback, 983,      7
+deposit,    984,      8,  100.00015
+dispute,    984,      8
+deposit,    985,      9,  34.33
+deposit,    985,      10,  5.0
+deposit,    986,      11,  15.024
+withdrawal, 986,      12,  10.53
+deposit,    991,      1,  1.122
+deposit,    991,      3,  2.0
+withdrawal, 991,      4,  1.5
+deposit,    992,      2,  2.0
+withdrawal, 992,      5,  3.0
+deposit,    993,      6,  500.0
+withdrawal, 993,      7,  5.0
+dispute,    993,      7
+chargeback, 993,      7
+deposit,    994,      8,  100.00015
+dispute,    994,      8
+deposit,    995,      9,  34.33
+deposit,    995,      10,  5.0
+deposit,    996,      11,  15.024
+withdrawal, 996,      12,  10.532
+dispute,    9000,      8
+deposit,    9135,      9,  34.33
+deposit,    9135,      10,  5.0
+deposit,    9136,      11,  15.024
+withdrawal, 9136,      12,  10.53
+deposit,    9141,      1,  1.122
+deposit,    9141,      3,  2.0
+withdrawal, 9141,      4,  1.5
+deposit,    9142,      2,  2.0
+withdrawal, 9142,      5,  3.0
+deposit,    9143,      6,  500.0
+withdrawal, 9143,      7,  5.0
+dispute,    9143,      7
+chargeback, 9143,      7
+deposit,    9122,      8,  100.00015
+dispute,    9144,      8
+deposit,    9145,      9,  34.33
+deposit,    9145,      10,  5.0
+deposit,    9146,      11,  15.024
+withdrawal, 9146,      12,  10.53
+deposit,    9151,      1,  1.122
+deposit,    9151,      3,  2.0
+withdrawal, 9151,      4,  1.5
+deposit,    9152,      2,  2.0
+withdrawal, 9152,      5,  3.0
+deposit,    9153,      6,  500.0
+withdrawal, 9153,      7,  5.0
+dispute,    9153,      7
+chargeback, 9153,      7
+deposit,    9154,      8,  100.00015
+dispute,    9154,      8
+deposit,    9155,      9,  34.33
+deposit,    9155,      10,  5.0
+deposit,    9156,      11,  15.024
+withdrawal, 9156,      12,  10.53
+deposit,    9161,      1,  1.122
+deposit,    9161,      3,  2.0
+withdrawal, 9161,      4,  1.5
+deposit,    9162,      2,  2.0
+withdrawal, 9162,      5,  3.0
+deposit,    9163,      6,  500.0
+withdrawal, 9163,      7,  5.0
+dispute,    9163,      7
+chargeback, 9163,      7
+deposit,    9164,      8,  100.00015
+dispute,    9164,      8
+deposit,    9165,      9,  34.33
+deposit,    9165,      10,  5.0
+deposit,    9166,      11,  15.024
+withdrawal, 9166,      12,  10.53
+deposit,    9171,      1,  1.122
+deposit,    9171,      3,  2.0
+withdrawal, 9171,      4,  1.5
+deposit,    9172,      2,  2.0
+withdrawal, 9172,      5,  3.0
+deposit,    9173,      6,  500.0
+withdrawal, 9173,      7,  5.0
+dispute,    9173,      7
+chargeback, 9173,      7
+deposit,    9174,      8,  100.00015
+dispute,    9174,      8
+deposit,    9175,      9,  34.33
+deposit,    9175,      10,  5.0
+deposit,    9176,      11,  15.024
+withdrawal, 9176,      12,  10.53
+deposit,    9181,      1,  1.122
+deposit,    9181,      3,  2.0
+withdrawal, 9181,      4,  1.5
+deposit,    9182,      2,  2.0
+withdrawal, 9182,      5,  3.0
+deposit,    9183,      6,  500.0
+withdrawal, 9183,      7,  5.0
+dispute,    9183,      7
+chargeback, 9183,      7
+deposit,    9184,      8,  100.00015
+dispute,    9184,      8
+deposit,    9185,      9,  34.33
+deposit,    9185,      10,  5.0
+deposit,    9186,      11,  15.024
+withdrawal, 9186,      12,  10.53
+deposit,    9191,      1,  1.122
+deposit,    9191,      3,  2.0
+withdrawal, 9191,      4,  1.5
+deposit,    9192,      2,  2.0
+withdrawal, 9192,      5,  3.0
+deposit,    9193,      6,  500.0
+withdrawal, 9193,      7,  5.0
+dispute,    9193,      7
+chargeback, 9193,      7
+deposit,    9194,      8,  100.00015
+dispute,    9194,      8
+deposit,    9195,      9,  34.33
+deposit,    9195,      10,  5.0
+deposit,    54000,      11,  15.024
+withdrawal, 54000,      12,  10.532
