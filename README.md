@@ -74,3 +74,8 @@ The etc directory contains test data files;
 - Refactor TransactionRunningState - not sure I like how we're updating the state.
 - Document functions where appropriate.
   
+
+  ## Afterthoughts
+  Would be better to create a reader in the main and pass into the library.
+  Create a builder for the TransactionRunningState, add the transactions, then fun a finalize function to calculate the available and return the correct (final) type.
+  Look at the failure library for handling errors
