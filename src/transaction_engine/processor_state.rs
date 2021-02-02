@@ -13,17 +13,11 @@ impl TransactionEngineProcessorState {
         }
     }
 
-    pub fn add_transaction(&mut self, transaction: TransactionInput) {
-        //TODO Change this to a match?
-        if !self.processor_state.contains_key(&transaction.client) {
-            let client_account = TransactionProcessor::new(transaction.client);
-            self.processor_state
-                .insert(client_account.client, client_account);
-        }
-        // This should always be Some now
-        if let Some(processor) = self.processor_state.get_mut(&transaction.client) {
-            processor.add_transaction(transaction);
-        }
+    pub fn add_transaction(&mut self, transaction: TransactionInput) {        
+        self.processor_state
+            .entry(transaction.client)
+            .or_insert_with(|| TransactionProcessor::new(transaction.client))
+            .add_transaction(transaction);
     }
 
     pub fn get_state(&self) -> &HashMap<u16, TransactionProcessor> {
